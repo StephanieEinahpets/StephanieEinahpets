@@ -6,3 +6,5 @@
 - 🤔 I’m always looking for opportunities to grow and learn, send anything you find interesting my way!
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: she/her
+
+![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=StephanieEinahpets&show_icons=true&theme=dark)
