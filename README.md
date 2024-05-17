@@ -7,7 +7,8 @@
 - 💬 Message me here: [Linkedin](https://www.linkedin.com/in/stephaniemblackman/)
 - 😄 Pronouns: she/her
 
-![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=StephanieEinahpets&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieEinahpets&layout=compact)](https://github.com/StephanieEinahpets/github-readme-stats)
+![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=StephanieEinahpets&show_icons=true&theme=dark)
+
 
 
