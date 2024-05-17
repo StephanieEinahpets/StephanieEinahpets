@@ -8,7 +8,6 @@
 - 😄 Pronouns: she/her
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StephanieEinahpets&layout=compact&theme=dark)](https://github.com/StephanieEinahpets/github-readme-stats)
-
 ![Stephanie's github stats](https://github-readme-stats.vercel.app/api?username=StephanieEinahpets&show_icons=true&theme=dark)
 
 
