@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👩‍🎓 I completed the full stack web development course offered by V School, focusing on the MERN stack
+- 👩‍🎓 I've completed a full stack web development course, focusing on the MERN stack
 - 🤠 I’m currently enrolled in another web development program where I am learning Python
 - 👯 I’m looking to collaborate on something that has a positive impact
 - 🤔 I’m always looking for opportunities to grow and learn, send anything you find interesting my way!
